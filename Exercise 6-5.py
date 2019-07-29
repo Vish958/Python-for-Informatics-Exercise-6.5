@@ -3,4 +3,4 @@ colpos = str.find(':')
 num = str[colpos+1: ]
 num = num.lstrip()
 num = float(num)
-print num
+print (num)
